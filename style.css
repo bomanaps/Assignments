@@ -1,0 +1,95 @@
+body {
+  background-color: #7E3B4A;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100 60'%3E%3Cg %3E%3Crect fill='%237E3B4A' width='11' height='11'/%3E%3Crect fill='%23803c4c' x='10' width='11' height='11'/%3E%3Crect fill='%23823d4d' y='10' width='11' height='11'/%3E%3Crect fill='%23843f4f' x='20' width='11' height='11'/%3E%3Crect fill='%23864051' x='10' y='10' width='11' height='11'/%3E%3Crect fill='%23884153' y='20' width='11' height='11'/%3E%3Crect fill='%238a4254' x='30' width='11' height='11'/%3E%3Crect fill='%238b4456' x='20' y='10' width='11' height='11'/%3E%3Crect fill='%238d4558' x='10' y='20' width='11' height='11'/%3E%3Crect fill='%238f465a' y='30' width='11' height='11'/%3E%3Crect fill='%2391485c' x='40' width='11' height='11'/%3E%3Crect fill='%2393495d' x='30' y='10' width='11' height='11'/%3E%3Crect fill='%23954a5f' x='20' y='20' width='11' height='11'/%3E%3Crect fill='%23974b61' x='10' y='30' width='11' height='11'/%3E%3Crect fill='%23994d63' y='40' width='11' height='11'/%3E%3Crect fill='%239b4e65' x='50' width='11' height='11'/%3E%3Crect fill='%239d4f67' x='40' y='10' width='11' height='11'/%3E%3Crect fill='%239f5169' x='30' y='20' width='11' height='11'/%3E%3Crect fill='%23a1526b' x='20' y='30' width='11' height='11'/%3E%3Crect fill='%23a3536c' x='10' y='40' width='11' height='11'/%3E%3Crect fill='%23a5556e' y='50' width='11' height='11'/%3E%3Crect fill='%23a65670' x='60' width='11' height='11'/%3E%3Crect fill='%23a85772' x='50' y='10' width='11' height='11'/%3E%3Crect fill='%23aa5974' x='40' y='20' width='11' height='11'/%3E%3Crect fill='%23ac5a76' x='30' y='30' width='11' height='11'/%3E%3Crect fill='%23ae5b78' x='20' y='40' width='11' height='11'/%3E%3Crect fill='%23b05d7a' x='10' y='50' width='11' height='11'/%3E%3Crect fill='%23b25e7c' x='70' width='11' height='11'/%3E%3Crect fill='%23b4607e' x='60' y='10' width='11' height='11'/%3E%3Crect fill='%23b66180' x='50' y='20' width='11' height='11'/%3E%3Crect fill='%23b86282' x='40' y='30' width='11' height='11'/%3E%3Crect fill='%23ba6484' x='30' y='40' width='11' height='11'/%3E%3Crect fill='%23bc6586' x='20' y='50' width='11' height='11'/%3E%3Crect fill='%23be6788' x='80' width='11' height='11'/%3E%3Crect fill='%23bf688b' x='70' y='10' width='11' height='11'/%3E%3Crect fill='%23c1698d' x='60' y='20' width='11' height='11'/%3E%3Crect fill='%23c36b8f' x='50' y='30' width='11' height='11'/%3E%3Crect fill='%23c56c91' x='40' y='40' width='11' height='11'/%3E%3Crect fill='%23c76e93' x='30' y='50' width='11' height='11'/%3E%3Crect fill='%23c96f95' x='90' width='11' height='11'/%3E%3Crect fill='%23cb7197' x='80' y='10' width='11' height='11'/%3E%3Crect fill='%23cd7299' x='70' y='20' width='11' height='11'/%3E%3Crect fill='%23cf739c' x='60' y='30' width='11' height='11'/%3E%3Crect fill='%23d0759e' x='50' y='40' width='11' height='11'/%3E%3Crect fill='%23d276a0' x='40' y='50' width='11' height='11'/%3E%3Crect fill='%23d478a2' x='90' y='10' width='11' height='11'/%3E%3Crect fill='%23d679a4' x='80' y='20' width='11' height='11'/%3E%3Crect fill='%23d87ba7' x='70' y='30' width='11' height='11'/%3E%3Crect fill='%23da7ca9' x='60' y='40' width='11' height='11'/%3E%3Crect fill='%23dc7eab' x='50' y='50' width='11' height='11'/%3E%3Crect fill='%23de7fad' x='90' y='20' width='11' height='11'/%3E%3Crect fill='%23df81b0' x='80' y='30' width='11' height='11'/%3E%3Crect fill='%23e182b2' x='70' y='40' width='11' height='11'/%3E%3Crect fill='%23e384b4' x='60' y='50' width='11' height='11'/%3E%3Crect fill='%23e585b6' x='90' y='30' width='11' height='11'/%3E%3Crect fill='%23e787b9' x='80' y='40' width='11' height='11'/%3E%3Crect fill='%23e988bb' x='70' y='50' width='11' height='11'/%3E%3Crect fill='%23ea8abd' x='90' y='40' width='11' height='11'/%3E%3Crect fill='%23ec8bc0' x='80' y='50' width='11' height='11'/%3E%3Crect fill='%23EE8DC2' x='90' y='50' width='11' height='11'/%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: cover;
+  font-family: 'Arial;
+}
+.regbox {
+  width: 360px;
+  height: 708px;
+  margin: auto;
+  background-color: rgb(255, 153, 215);
+  border-radius: 3px;
+}
+
+.logbox {
+ width: 360px;
+ height: 280px;
+ margin: auto;
+ border-radius: 3px;
+ background-color: rgb(147, 211, 240);
+}
+
+h1 {
+ text-align: center;
+ padding-top: 15px;
+}
+h4 {
+ text-align: center;
+}
+form {
+ width: 300px;
+ margin-left: 20px;
+}
+
+form label {
+ display: flex;
+ margin-top: 20px;
+ font-size: 18px;
+}
+form input {
+ width: 100%;
+ padding: 7px;
+ border: none;
+ border: 1px solid gray;
+ border-radius: 6px;
+ outline: none;
+}
+
+input[type=button] {
+ width: 320px;
+ height: 35px;
+ margin-top: 20px;
+ border: none;
+ cursor: pointer;
+ background-color: #7E3B4A;
+ color: white;
+ font-size: 18px;
+}
+
+input[type=button]:hover {
+ opacity: 0.8;
+}
+
+button {
+ width: 320px;
+ height: 35px;
+ margin-top: 20px;
+ border: none;
+ cursor: pointer;
+ background-color: #7E3B4A;
+ color: white;
+ font-size: 18px;
+}
+
+button:hover {
+ opacity: 0.8;
+}
+
+p {
+ text-align: center;
+ padding-top: 20px;
+ font-size: 15px;
+}
+
+.para2 {
+ text-align: center;
+ color: white;
+ font-size: 15px;
+ margin-top: -10px;
+}
+
+.para2 a {
+ color: rgb(255, 120, 0);
+}
